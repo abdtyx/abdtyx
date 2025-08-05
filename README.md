@@ -4,10 +4,7 @@ Technical Skills
 * Frameworks: C++ Workflow, Gin, GORM, gRPC, MPICH, DPDK, React, Bootstrap, Tailwind
 * Infrastructure: Linux, Bash, Git, Nginx, Docker, Kubernetes, Virtual Machines, Microservices, AWS, CI/CD
 
-Official website (English): [en.abdtyx.cn](https://en.abdtyx.cn/)
-
-Official website (Chinese): [In progress](https://zh.abdtyx.cn/)
-
+Official website (English): [www.abdtyx.cn](https://www.abdtyx.cn/)
 
 <!--
 **abdtyx/abdtyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
