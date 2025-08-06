@@ -1,6 +1,6 @@
 ## Hi there 👋 this is abdtyx.
 Technical Skills
-* Languages: Python, C/C++, Go, SQL (MySQL), JavaScript, HTML/CSS, Verilog, x86 Assembly
+* Languages: Python, C/C++, Go, SQL (MySQL), JavaScript, HTML/CSS, CUDA, Verilog, x86 Assembly
 * Frameworks: C++ Workflow, Gin, GORM, gRPC, MPICH, DPDK, React, Bootstrap, Tailwind
 * Infrastructure: Linux, Bash, Git, Nginx, Docker, Kubernetes, Virtual Machines, Microservices, AWS, CI/CD
 
